@@ -1,0 +1,4 @@
+module moduleInfo {
+	exports com.sungnam.util.internal;
+	requires com.sungnam.util;
+}

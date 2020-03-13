@@ -1,0 +1,7 @@
+module moduleInfo {
+	exports com.sungnam.util.internal;
+}
+
+module moduleInfo2 {
+	exports com.sungnam.util.internal;
+}

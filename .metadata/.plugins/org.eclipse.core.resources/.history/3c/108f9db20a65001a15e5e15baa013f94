@@ -1,0 +1,12 @@
+package com.sungnam.util.internal;
+
+/*
+ * Dont use this class, only for internal me !!!
+ *  I'll make jar file but, I dont want to be seen this class by others  
+ */
+public class AddHelper {
+	public int add(int i, int j) {
+		return i + j;
+	}
+
+}

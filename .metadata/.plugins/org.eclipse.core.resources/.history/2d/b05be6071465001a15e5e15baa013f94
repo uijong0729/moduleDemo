@@ -1,0 +1,3 @@
+module moduleInfo {
+	requires moduleInfo.com.sungnam;
+}

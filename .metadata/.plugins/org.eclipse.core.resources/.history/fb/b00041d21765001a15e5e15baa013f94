@@ -1,0 +1,3 @@
+module ModuleInfo2 {
+	requires moduleInfo;
+}
